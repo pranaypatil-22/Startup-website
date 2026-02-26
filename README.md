@@ -1,3 +1,3 @@
 # Startup-website
-local startup website project
+this is my first repository
 author-pranay patil
